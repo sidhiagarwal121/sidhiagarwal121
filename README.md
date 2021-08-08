@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sidhi Agarwal</h1>
-<h3 align="center">hi, i'm Sidhi, a passionate self-taught upcoming full stack web developer. Skilled in Team Motivation, Communication, English, Management, and Leadership. Strong operations professional with a Bachelor of Technology - BTech focused in Web-Development from GLA University where I am learning how to apply critical thinking and problem-solving strategies to today’s complex problems.</h3>
+<h4 align="center">hi, i'm Sidhi, a passionate self-taught upcoming full stack web developer. 
+  Skilled in Team Motivation, Communication, English, Management, and Leadership. Strong operations professional with a Bachelor of Technology - BTech focused in Web-Development from GLA University where I am learning how to apply critical thinking and problem-solving strategies to today’s complex problems.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sidhiagarwal121&label=Profile%20views&color=0e75b6&style=flat" alt="sidhiagarwal121" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sidhiagarwal121" alt="sidhiagarwal121" /></a> </p>
 
-- If you are interested in contacting me please Email, or feel free to connect with me on LinkedIn. **https://www.linkedin.com/in/sidhi-agarwal-a977731b6**
+- If you are interested in contacting me please Email, or feel free to connect with me on LinkedIn.<a href="https://www.linkedin.com/in/sidhi-agarwal-a977731b6" target="_blank">linkedin</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
