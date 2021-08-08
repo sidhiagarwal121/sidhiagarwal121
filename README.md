@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sidhi Agarwal</h1>
-<h5 align="center">A passionate student  pursuing a Bachelor of Technology - BTech in CSE where I am learning how to apply critical thinking and problem-solving strategies to solve today’s complex problems.</h5>
+<h5 align="center">A student  pursuing  Bachelor of Technology - BTech in CSE where I am learning how to apply critical thinking and problem-solving strategies to solve today’s complex problems.</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sidhiagarwal121&label=Profile%20views&color=0e75b6&style=flat" alt="sidhiagarwal121" /> </p>
 
