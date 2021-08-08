@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sidhi Agarwal</h1>
-<h4 align="center">hi, i'm Sidhi, a passionate self-taught upcoming full stack web developer. 
-  Skilled in Team Motivation, Communication, English, Management, and Leadership. Strong operations professional with a Bachelor of Technology - BTech focused in Web-Development from GLA University where I am learning how to apply critical thinking and problem-solving strategies to today’s complex problems.</h4>
+<h5 align="center">Hi, i'm Sidhi, a passionate self-taught upcoming full stack web developer. 
+  Skilled in Team Motivation, Communication, English, Management, and Leadership. Strong operations professional with a Bachelor of Technology - BTech focused in Web-Development from GLA University where I am learning how to apply critical thinking and problem-solving strategies to today’s complex problems.</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sidhiagarwal121&label=Profile%20views&color=0e75b6&style=flat" alt="sidhiagarwal121" /> </p>
 
